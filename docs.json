@@ -1,8 +1,8 @@
 {
     "name": "vurix",
     "theme": "#ab47bc",
-    "favicon": "assets/vurix_logo.png",
-    "logo": "assets/vurix_logo.png",
+    "favicon": "assets/vurix_logo.webp",
+    "logo": "assets/vurix_logo.webp",
     "anchors": [
         {
             "title": "Vurix",
@@ -15,6 +15,10 @@
             [
                 "Overview",
                 "/"
+            ],
+            [
+                "Login",
+                "/how-to-use/login"
             ]
         ],
         [
