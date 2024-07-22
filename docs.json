@@ -1,14 +1,8 @@
 {
-    "name": "vurix",
-    "theme": "#ab47bc",
-    "favicon": "assets/vurix_logo.webp",
-    "logo": "assets/vurix_logo.webp",
-    "anchors": [
-        {
-            "title": "Vurix",
-            "link": "https://innodep.co.kr/new/eng/main/main.php"
-        }
-    ],
+    "name": "Vurix Mobile Docs",
+    "theme": "#36B9B9",
+    "favicon": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
+    "logo": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
     "sidebar": [
         [
             "Getting Started",
