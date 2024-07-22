@@ -8,6 +8,11 @@
             "title": "Homepage",
             "icon": "house",
             "link": "https://innodep.co.kr/renew/eng/"
+        },
+        {
+            "title": "Github",
+            "icon": "code",
+            "link": "https://innodep.co.kr/renew/eng/"
         }
     ],
     "sidebar": {
