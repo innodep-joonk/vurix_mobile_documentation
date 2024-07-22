@@ -3,24 +3,53 @@
     "theme": "#36B9B9",
     "favicon": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
     "logo": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
-    "sidebar": [
-        [
-            "Getting Started",
+    "anchors": [
+        {
+            "title": "Homepage",
+            "icon": "house",
+            "link": "https://innodep.co.kr/renew/eng/"
+        }
+    ],
+    "sidebar": {
+        "en": [
             [
-                "Overview",
-                "/"
+                "Getting started",
+                [
+                    [
+                        "Overview",
+                        "/"
+                    ]
+                ]
             ],
             [
-                "Login",
-                "/how-to-use/login"
+                "How to use",
+                [
+                    [
+                        "Login",
+                        "/how-to-use/login"
+                    ]
+                ]
             ]
         ],
-        [
-            "How to use",
+        "ko": [
             [
-                "Login",
-                "/how-to-use/login"
+                "시작하기",
+                [
+                    [
+                        "개요",
+                        "/"
+                    ]
+                ]
+            ],
+            [
+                "사용 방법",
+                [
+                    [
+                        "로그인",
+                        "/how-to-use/login"
+                    ]
+                ]
             ]
         ]
-    ]
+    }
 }
