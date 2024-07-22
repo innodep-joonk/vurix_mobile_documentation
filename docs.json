@@ -1,0 +1,28 @@
+{
+    "name": "Vurix Mobile Docs",
+    "theme": "#ab47bc",
+    "favicon": "assets/vurix_logo.png",
+    "logo": "assets/vurix_logo.png",
+    "anchors": [
+        {
+            "title": "Vurix",
+            "link": "https://innodep.co.kr/new/eng/main/main.php"
+        }
+    ],
+    "sidebar": [
+        [
+            "Getting Started",
+            [
+                "Overview",
+                "/"
+            ]
+        ],
+        [
+            "How to use",
+            [
+                "Login",
+                "/how-to-use/login"
+            ]
+        ]
+    ]
+}
