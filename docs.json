@@ -1,6 +1,6 @@
 {
     "name": "Vurix Mobile Docs",
-    "theme": "#36B9B9",
+    "theme": "#4B9EF4",
     "favicon": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
     "logo": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
     "anchors": [
@@ -14,12 +14,7 @@
         "en": [
             [
                 "Getting started",
-                [
-                    [
-                        "Overview",
-                        "/"
-                    ]
-                ]
+                "/"
             ],
             [
                 "How to use",
@@ -34,12 +29,7 @@
         "ko": [
             [
                 "시작하기",
-                [
-                    [
-                        "개요",
-                        "/"
-                    ]
-                ]
+                "/"
             ],
             [
                 "사용 방법",
