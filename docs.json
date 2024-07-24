@@ -2,7 +2,7 @@
     "name": "Vurix Mobile Docs",
     "theme": "#4B9EF4",
     "favicon": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
-    "logo": "https://innodep.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10606?size=xxlarge",
+    "logo": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true",
     "anchors": [
         {
             "title": "Homepage",
