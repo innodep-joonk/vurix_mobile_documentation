@@ -27,6 +27,18 @@
                     [
                         "Login",
                         "/how-to-use/login"
+                    ],
+                    [
+                        "Live",
+                        "/how-to-use/login"
+                    ],
+                    [
+                        "Archiver",
+                        "/how-to-use/login"
+                    ],
+                    [
+                        "Setting",
+                        "/how-to-use/login"
                     ]
                 ]
             ]
