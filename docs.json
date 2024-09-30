@@ -19,35 +19,37 @@
         {
             "group": "Getting Started",
             "pages": [
-                [
-                    "Get Started",
-                    "/"
-                ],
-                [
-                    "Overview",
-                    "/overview"
-                ]
+                {
+                    "title": "Getting Started",
+                    "href": "/",
+                    "icon": "circle-info"
+                },
+                {
+                    "title": "Overview",
+                    "href": "/overview",
+                    "icon": "book"
+                }
             ]
         },
         {
             "group": "How-to-use",
             "pages": [
-                [
-                    "Login",
-                    "/how-to-use/login"
-                ],
-                [
-                    "Live",
-                    "/how-to-use/login"
-                ],
-                [
-                    "Archiver",
-                    "/how-to-use/login"
-                ],
-                [
-                    "Setting",
-                    "/how-to-use/login"
-                ]
+                {
+                    "title": "Login",
+                    "href": "/login"
+                },
+                {
+                    "title": "Live",
+                    "href": "/live"
+                },
+                {
+                    "title": "Record",
+                    "href": "/record"
+                },
+                {
+                    "title": "Settings",
+                    "href": "/settings"
+                }
             ]
         }
     ]
