@@ -15,66 +15,40 @@
             "href": "https://innodep.co.kr/renew/eng/"
         }
     ],
-    "sidebar": {
-        "en": [
-            {
-                "group": "Getting Started",
-                "pages": [
-                    [
-                        "Get Started",
-                        "/"
-                    ],
-                    [
-                        "Overview",
-                        "/overview"
-                    ]
+    "sidebar": [
+        {
+            "group": "Getting Started",
+            "pages": [
+                [
+                    "Get Started",
+                    "/"
+                ],
+                [
+                    "Overview",
+                    "/overview"
                 ]
-            },
-            {
-                "group": "How-to-use",
-                "pages": [
-                    [
-                        "Login",
-                        "/how-to-use/login"
-                    ],
-                    [
-                        "Live",
-                        "/how-to-use/login"
-                    ],
-                    [
-                        "Archiver",
-                        "/how-to-use/login"
-                    ],
-                    [
-                        "Setting",
-                        "/how-to-use/login"
-                    ]
+            ]
+        },
+        {
+            "group": "How-to-use",
+            "pages": [
+                [
+                    "Login",
+                    "/how-to-use/login"
+                ],
+                [
+                    "Live",
+                    "/how-to-use/login"
+                ],
+                [
+                    "Archiver",
+                    "/how-to-use/login"
+                ],
+                [
+                    "Setting",
+                    "/how-to-use/login"
                 ]
-            }
-        ],
-        "ko": [
-            {
-                "group": "시작하기",
-                "pages": [
-                    [
-                        "시작하기",
-                        "/"
-                    ],
-                    [
-                        "요약",
-                        "/overview"
-                    ]
-                ]
-            },
-            {
-                "group": "사용방법",
-                "pages": [
-                    [
-                        "로그인",
-                        "/how-to-use/login"
-                    ]
-                ]
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }
