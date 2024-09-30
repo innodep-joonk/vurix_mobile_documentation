@@ -1,55 +1,68 @@
 {
     "name": "Vurix Mobile Docs",
-    "theme": "#4B9EF4",
+    "theme": {
+        "primary": "#4B9EF4"
+    },
     "favicon": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true",
-    "logo": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true",
+    "logo": {
+        "light": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true",
+        "dark": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true"
+    },
     "anchors": [
         {
             "title": "Homepage",
             "icon": "house",
-            "link": "https://innodep.co.kr/renew/eng/"
+            "href": "https://innodep.co.kr/renew/eng/"
         }
     ],
     "sidebar": {
         "en": [
-            [
-                "Getting started",
-                [
+            {
+                "group": "Getting Started",
+                "pages": [
+                    [
+                        "Get Started",
+                        "/"
+                    ],
                     [
                         "Overview",
                         "/overview"
                     ]
                 ]
-            ],
-            [
-                "How to use",
-                [
+            },
+            {
+                "group": "How-to-use",
+                "pages": [
                     [
                         "Login",
                         "/how-to-use/login"
                     ]
                 ]
-            ]
+            }
         ],
         "ko": [
-            [
-                "시작하기",
-                [
+            {
+                "group": "시작하기",
+                "pages": [
                     [
-                        "개요",
+                        "시작하기",
+                        "/"
+                    ],
+                    [
+                        "요약",
                         "/overview"
                     ]
                 ]
-            ],
-            [
-                "사용 방법",
-                [
+            },
+            {
+                "group": "사용방법",
+                "pages": [
                     [
                         "로그인",
                         "/how-to-use/login"
                     ]
                 ]
-            ]
+            }
         ]
     }
 }
